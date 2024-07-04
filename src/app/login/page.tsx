@@ -1,10 +1,12 @@
 'use client'
 
+import Link from 'next/link'
+
 import AppleIcon from '@/assets/icons/apple.svg'
 import GoogleIcon from '@/assets/icons/google.svg'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
-import Link from 'next/link'
+
 
 const LoginScreen = () => {
   return (
