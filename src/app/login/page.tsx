@@ -1,3 +1,5 @@
+'use client'
+
 import AppleIcon from '@/assets/icons/apple.svg'
 import GoogleIcon from '@/assets/icons/google.svg'
 import { Button } from '@/components/ui/button'
